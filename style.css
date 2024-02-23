@@ -32,7 +32,7 @@ nav{
     justify-content: space-around;
     align-items: center;
     height: 17vh;
-    color: blue;
+    color: black;
 }
 .nav-links{
     gap: 2rem;
