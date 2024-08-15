@@ -6,6 +6,10 @@
     .about-containers{
         flex-wrap: wrap;
     }
+    .body{
+        background-color:white;
+    }
+        
     
 }
 @media screen and (max-width:1200px){
